@@ -1,5 +1,9 @@
 # trial2
 
-this project is trial project for student
+let age = 18;
 
-this is for git 101
+if (age <= 18) {
+  console.log("You can drive in India");
+}else {
+  console.log("NA");
+}
